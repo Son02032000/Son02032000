@@ -1,0 +1,54 @@
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+         &lt;meta http-equiv="content-type" content="text/html;charset=UTF-8" /&gt;
+   &lt;meta name="viewport" content="width=device-width,initial-scale=1" /&gt;
+    &lt;title&gt;CHẠM VÀO ĐÂY&lt;/title&gt;
+    &lt;!-- Tiêu đề của trang --&gt;
+     &lt;META NAME="description" CONTENT="Đoán xem có điều gì bất ngờ tại đây?" /&gt;
+     &lt;!-- Description ngắn --&gt;
+     &lt;meta property="og:image" content="https://minhchuit.net/wp-content/uploads/2019/10/cham-vao-day.png" /&gt;
+     &lt;meta property="og:title" content="CHẠM VÀO ĐÂY" /&gt;
+     &lt;!-- Tiêu đề của trang --&gt;
+     &lt;meta property="og:type" content="website" /&gt;
+     &lt;meta name="author" content="Trần Văn Sơn"&gt;
+     &lt;link rel="stylesheet" href="https://minhchuit.net/css/valentine.css" type="text/css" /&gt;
+     &lt;link rel="stylesheet" href="https://minhchuit.net/css/fontawesome-free-5.12.1-web/css/all.css" type="text/css" /&gt;
+     &lt;script language="javascript" src="https://minhchuit.net/js/jquery-3.3.1.min.js"&gt;&lt;/script&gt;
+     &lt;script&gt;
+         $(document).ready(function(){
+  $('.title').click(function(){
+    $('.container').addClass('open');
+  });
+   
+   
+  $('.close').click(function(){
+    $('.container').removeClass('open');
+  });
+});
+     &lt;/script&gt;
+     &lt;/head&gt;
+     &lt;body&gt;
+         &lt;div class="bgoverlay"&gt;
+  &lt;div class="container"&gt;
+    &lt;span class="ico"&gt;
+      &lt;span class="ico2"&gt;&lt;/span&gt;
+      &lt;span class="title"&gt;Chạm Vào&lt;br&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đây&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;div class="endtext"&gt;
+      &lt;span class="close" title="Restart"&gt;&lt;i class="fa fa-times"&gt;&lt;/i&gt;&lt;/span&gt;  
+      &lt;h1&gt;I love you baby&lt;/h1&gt;
+      &lt;h2&gt;Làm người yêu tớ nhé &lt;i class="fas fa-heart"&gt;&lt;/i&gt;&lt;/h2&gt;
+      &lt;!-- Thay câu bạn muốn vào đây --&gt;
+      &lt;div id="all"&gt;
+&lt;button class="a" onclick="alert('Cái này thêm cho vui chứ không có bấm được.Vui lòng bấm nút Đồng Ý màu xanh')"&gt;Không Đồng Ý&lt;/button&gt;
+&lt;!-- Thay câu bạn muốn vào trong phần ngoặc đơn --&gt;
+ 
+&lt;button class="b"&gt;&lt;a href="https://m.me/100024065912382"&gt;Đồng Ý&lt;/a&gt;&lt;/button&gt;
+&lt;!-- Thay id facebook của bạn vào trong ngoặc kép sau phần m.me/ --&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+     &lt;/body&gt;
+     &lt;/html&gt;
